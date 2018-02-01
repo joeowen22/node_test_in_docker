@@ -1,0 +1,19 @@
+{
+  "name": "node_ws_test",
+  "version": "1.0.0",
+  "description": "Test to run node js in docker",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node_docker_test"
+  },
+  "author": "Joe Owen",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
